@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The-first-post"
+title:  "The first post"
 date:   2017-10-09 14:30:00 +0900
 categories:
 tags:
